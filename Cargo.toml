@@ -1,6 +1,6 @@
 [package]
 name = "Lotus"
-version = "0.2.1"
+version = "0.2.2"
 authors = ["NerdyPepper <akshayoppiliappan@gmail.com>"]
 edition = "2018"
 
@@ -12,4 +12,4 @@ categories = ["value-formatting", "command-line-interface"]
 license = "MIT"
 
 [dependencies]
-derive_builder = "0.7.1"
+derive_builder = "0.12"
